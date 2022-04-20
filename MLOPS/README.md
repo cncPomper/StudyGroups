@@ -1,0 +1,3 @@
+# MLOPS Study Group
+Uczymy się na podstawie [kursu](https://fullstackdeeplearning.com/)
+...
